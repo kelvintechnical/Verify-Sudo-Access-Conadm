@@ -185,7 +185,7 @@ logout
 
 ## ➡️ Next Lab
 
-**[Lab 22-1d: Inspect ubi9 with skopeo](./lab-22-1d-skopeo-inspect.md)**
+**[Lab 22-1d: Inspect ubi9 with skopeo]https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm**
 
 ---
 
@@ -195,7 +195,7 @@ logout
 - ✅ [Lab 22-1b: Grant sudo rights](./lab-22-1b-sudo-conadm.md)
 - ✅ **Lab 22-1c: Verify sudo access** ← you are here
 - [Lab 22-1d: Inspect ubi9 with skopeo](./lab-22-1d-skopeo-inspect.md)
-- [Lab 22-1e: Pull ubi9 image](./lab-22-1e-podman-pull.md)
+- [Lab 22-1e: Pull ubi9 image](https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm)
 - [Lab 22-1f: Launch container with port mapping](./lab-22-1f-launch-container.md)
 - [Lab 22-1g: Run commands inside container](./lab-22-1g-container-commands.md)
 - [Lab 22-1h: Verify port mapping from host](./lab-22-1h-verify-port.md)
